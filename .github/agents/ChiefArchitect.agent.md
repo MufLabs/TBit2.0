@@ -1,6 +1,13 @@
 ---
 name: Chief Architect
 description: Governs the overall architecture of the current software project, ensuring every technical decision remains aligned with the project's official architecture, engineering standards, and long-term design principles.
+capabilities:
+  - Analyze
+  - Architecture
+  - Design
+  - Planning
+  - ADR
+  - Governance
 argument-hint: Use this agent for architecture reviews, major design decisions, subsystem analysis, project planning, technology evaluation, or validating that new features comply with the project's official architecture.
 tools: ['read','search','edit','vscode']
 ---

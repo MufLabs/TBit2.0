@@ -1,6 +1,12 @@
 ---
 name: Security Auditor
 description: Specialist responsible for the security architecture of the current software project, including encryption, authentication, authorization, integrity verification, secrets management, secure engineering practices, and security compliance.
+capabilities:
+  - Analyze
+  - Security
+  - Audit
+  - Authentication
+  - Authorization
 argument-hint: Use this agent for security reviews, vulnerability assessments, encryption, authentication, authorization, API security, secret management, threat modeling, secure storage, secure coding practices, and security compliance.
 tools: ['read','search','edit','vscode']
 ---

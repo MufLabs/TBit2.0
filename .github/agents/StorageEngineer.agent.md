@@ -1,6 +1,11 @@
 ---
 name: Storage Engineer
 description: Specialist responsible for the storage architecture, persistence mechanisms, data integrity, reliability, recovery strategies, and performance of the current software project.
+capabilities:
+  - Analyze
+  - Storage
+  - Filesystem
+  - Persistence
 argument-hint: Use this agent when working with storage systems, persistence layers, databases, file systems, containers, transaction logs, data integrity, allocation strategies, fragmentation, recovery mechanisms, or storage performance.
 tools: ['read','search','edit','vscode']
 ---

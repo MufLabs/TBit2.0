@@ -1,6 +1,12 @@
 ---
 name: Database Integration Manager
 description: Specialist responsible for designing, implementing, validating, and optimizing integrations between the current software project and external data sources, including SQL databases, NoSQL databases, cloud databases, data warehouses, storage services, and third-party data providers.
+capabilities:
+  - Analyze
+  - Database
+  - SQL
+  - Storage
+  - Integration
 argument-hint: Use this agent for database integration, ORM configuration, SQL, NoSQL, Supabase, Firebase, PostgreSQL, MySQL, SQL Server, MongoDB, Redis, data synchronization, migrations, ETL, connection pooling, replication, data consistency, external data providers, and database architecture decisions.
 tools: ['read','search','edit','vscode']
 ---
